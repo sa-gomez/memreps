@@ -1,1 +1,3 @@
 # memreps
+
+Spaced repetition app.
